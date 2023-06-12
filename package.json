@@ -1,0 +1,27 @@
+{
+    "type": "module",
+    "name": "baredux",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "format": "npx prettier --write .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dmtrxw/baredux.git"
+    },
+    "author": "Dimitri Wahyudiputra",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dmtrxw/baredux/issues"
+    },
+    "homepage": "https://github.com/dmtrxw/baredux#readme",
+    "dependencies": {
+        "redux": "^4.2.1"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.8"
+    }
+}
